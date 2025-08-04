@@ -1,0 +1,1 @@
+Pequena calculadora em Python para demonstrar o fluxo Gitflow com releases automatizadas.
